@@ -1,5 +1,5 @@
 {
-  "helm-charts/one": "0.0.0",
-  "helm-charts/two": "0.0.0",
-  "helm-charts/three": "0.0.0"
+  "helm-charts/one": {},
+  "helm-charts/two": {},
+  "helm-charts/three": {}
 }
