@@ -1,1 +1,5 @@
-{}
+{
+  "helm-charts/one": "v0.0.1",
+  "helm-charts/two": "v0.0.1",
+  "helm-charts/three": "v0.0.1"
+}
