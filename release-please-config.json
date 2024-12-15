@@ -1,4 +1,5 @@
 {
+  "bootstrap-sha": "bbd9e88faa259d30f1ce12862b8cf1f0c70f3575",
   "packages": {
     "helm-charts/one": {
       "changelog-path": "CHANGELOG.md",
